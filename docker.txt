@@ -1,0 +1,2 @@
+https://docs.docker.com/get-started/
+https://docs.docker.com/v17.09/toolbox/toolbox_install_windows/
